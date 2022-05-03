@@ -207,10 +207,10 @@ body .expand .mainText {
 body .our_process .back_process {
   min-height: 390px;
   width: 100%;
-  background: url('../img/Our_proces(2).png');
-  background-position: center center;
-  background-size: contain;
-  background-repeat: no-repeat;
+}
+body .our_process .back_process img {
+  width: 100%;
+  height: auto;
 }
 body .wedo_1 {
   padding: 100px 150px 30px 150px;
@@ -300,7 +300,6 @@ body .portfolio .controls button {
 }
 body .portfolio .controls button:hover {
   color: #e44640;
-  font-weight: bold;
   text-decoration: underline;
   cursor: pointer;
 }
