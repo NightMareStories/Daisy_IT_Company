@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+Макет Daisy.psd
 *.psd
 
 # testing
