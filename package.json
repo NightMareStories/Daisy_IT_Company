@@ -1,0 +1,28 @@
+{
+  "name": "daisy_it-company",
+  "version": "1.1.0",
+  "description": "Daisy is a one-page business card site developed using the 'LESS' and 'JavaScript' preprocessor, using the 'jQuery' library and the 'MixItUp' third-party plugin to filter the content on the page.",
+  "type": "commonjs",
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "update": "npm update --save-dev && npm update --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightMareStories/Daisy_IT-Company.git"
+  },
+  "keywords": [
+    "Site",
+    "HTML5", 
+    "LESS", 
+    "JavaScriptES6", 
+    "jQuery", 
+    "MixItUp"
+  ],
+  "author": "NightMareStories",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightMareStories/Daisy_IT-Company/issues"
+  },
+  "homepage": "https://github.com/NightMareStories/Daisy_IT-Company#readme"
+}
