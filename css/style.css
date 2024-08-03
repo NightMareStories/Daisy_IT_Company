@@ -1,0 +1,11 @@
+/*======================= Import ========================*/
+
+@import 'fonts.css';
+@import 'main.css';
+@import '../components/ComponentsReset.css';
+@import '../components/Components.css';
+@import '../components/GeneralHeader/Header.css';
+@import '../components/GeneralFooter/Footer.css';
+@import 'media.css';
+
+/*=======================================================*/
